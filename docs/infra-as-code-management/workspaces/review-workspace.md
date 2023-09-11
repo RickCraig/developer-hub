@@ -4,7 +4,7 @@ description: Explore the details of a workspace.
 sidebar_position: 30
 ---
 
-Once you have created the workspace and performed an update, you should see how it helps you manage its encapsulated resources. 
+Once you have created the workspace and performed an update, you should see how it helps you manage its resources. 
 
 1. Navigate to the workspace you created, and then select the **Resource** tab. You can see the following details:
 

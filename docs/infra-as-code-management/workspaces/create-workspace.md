@@ -58,4 +58,4 @@ A good best practice is to avoid managing Terraform variables in Git; set them i
 
     Skip the other tabs for now. They are not relevant until after the workspace has been provisioned. 
 
-Now that you have a workspace, you can provision it. 
+Now that you have a workspace, you can provision it by creating a pipeline and assigning it to an IaCM stage.
